@@ -38,9 +38,9 @@ Passman is a password manager built with the MERN (MongoDB, Express, React, Node
 
 ## Repositories
 
-Frontend: [Password Manager](https://github.com/Yushmanth-reddy/passwordManagerFrontend)
+Frontend: 
 
-Backend: [Password Manager](https://github.com/Yushmanth-reddy/password-manager-backend)
+Backend: 
 
 # Technologies Used
 
@@ -100,8 +100,4 @@ Run `npm start` in the Backend repo first and then in Frontend .
 
 Passman uses the RSA algorithm for password encryption and decryption. User passwords are encrypted before storing them in the database and are decrypted when accessed by authorized users. JWT tokens are used to authenticate users and authorize their access to the password manager. Access Token gets expired every 1 hour and new access token is generated with the help of refresh token, maintaining the user's authentication.
 
-## Team Members
 
-1. Harshith Mentee | 2021IMT-063
-2. Ponnolu Yushmanth Pali Reddy | 2021IMT-075
-3. Avijeet Jain | 2021IMG-018
